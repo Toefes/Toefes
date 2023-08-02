@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toefes
-- 👀 I’m interested in music, sports, gaming and gaining new knowlegde
+- 👀 I’m interested in music, sports, philosophy, gaming and gaining new knowlegde
 - 🌱 I’m currently learning python and japanese
 
 <!---
